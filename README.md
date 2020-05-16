@@ -4,7 +4,5 @@ This github repository contains a jupyter notebook that analyzes covid cases and
 
 Example from analysis.
 
-<video width="600",height="240" controls>
-<source src="weekly_deaths_nyc.mp4" type="video/mp4">
-</video>
+<img src="weekly_deaths_nyc.gif" width="600">
 
